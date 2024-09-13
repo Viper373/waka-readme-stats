@@ -59,6 +59,15 @@ Add a comment to your `README.md` like this:
 
 ```md
 <!--START_SECTION:waka-->
+
+```txt
+C++              1 hr 27 mins    ███████████▓░░░░░░░░░░░░░   46.43 %
+Python           41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+CMake            40 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+JavaScript       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+ObjectiveC       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+```
+
 <!--END_SECTION:waka-->
 ```
 
